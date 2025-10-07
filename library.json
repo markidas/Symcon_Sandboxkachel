@@ -1,0 +1,12 @@
+{
+    "id": "{A5190FAF-1378-CD8A-77F5-DFFF64CB000C}",
+    "name": "Symcon_repository",
+    "author": "Markidas",
+    "url": "https://github.com/markidas",
+    "compatibility": {
+        "version": "7.1"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

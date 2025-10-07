@@ -1,0 +1,12 @@
+{
+    "id": "{7E28E8C2-7925-A16C-1DBD-62826BBCA64A}",
+    "name": "Sandbox",
+    "type": 3,
+    "vendor": "Markidas",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SB",
+    "url": "https://github.com/markidas/Symcon_Sandboxkachel"
+}
